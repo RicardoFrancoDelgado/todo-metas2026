@@ -1,0 +1,11 @@
+h1 {
+  color: antiquewhite;
+  font-weight: 300;
+  text-align: center;
+  font-size: 64px;
+}
+h1 span {
+  color: #FBDB0D;
+  display: block;
+  font-weight: 300;
+}/*# sourceMappingURL=Titulo.module.css.map */
